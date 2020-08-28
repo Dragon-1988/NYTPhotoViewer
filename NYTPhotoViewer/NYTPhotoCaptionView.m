@@ -158,7 +158,7 @@ static const CGFloat NYTPhotoCaptionViewVerticalMargin = 7.0;
         [attributedLabelText appendAttributedString:self.attributedCredit];
     }
     
-    self.textView.attributedText = attributedLabelText;
+//    self.textView.attributedText = attributedLabelText;
 }
 
 @end
